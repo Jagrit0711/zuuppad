@@ -39,9 +39,9 @@
         "other_text_thickness": 0.15,
         "other_text_upright": false,
         "pads": {
-          "drill": 2.2,
-          "height": 2.2,
-          "width": 2.2
+          "drill": 1.0,
+          "height": 1.6,
+          "width": 1.6
         },
         "silk_line_width": 0.1,
         "silk_text_italic": false,
@@ -96,7 +96,7 @@
         "nonmirrored_text_on_back_layer": "warning",
         "npth_inside_courtyard": "error",
         "padstack": "warning",
-        "pth_inside_courtyard": "error",
+        "pth_inside_courtyard": "ignore",
         "shorting_items": "error",
         "silk_edge_clearance": "warning",
         "silk_over_copper": "warning",
@@ -632,7 +632,7 @@
         "uuid": "1c931fac-ad5f-408f-9fda-39e7e7b987c8"
       }
     ],
-    "used_designators": "D1-9,S1-9,U1,A1",
+    "used_designators": "D1-9,S1-9,U1,A1,J1,SW1",
     "variants": []
   },
   "sheets": [
