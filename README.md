@@ -2,7 +2,7 @@
 Zuup is a cicropad is a 9 key macropad built around the Arduino Pro Micro.
 #Features:
 9 MX-style mechanical switches in a 3x3 grid
-Arduino Pro Micro (ATmega32U4) as the brains
+rasberry pi pico as the brains
 QMK firmware
 
 # CAD Model:
@@ -19,7 +19,7 @@ Uses QMK firmware.
 9x MX-style mechanical switches
 9x keycaps (1u)
 9x 1N4148 DO-35 diodes
-1x Arduino Pro Micro
+1x rasberyy pi pico
 3x M2x5mm screws
 1x 3D printed open-top tray
 1x PCB i made
