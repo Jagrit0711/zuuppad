@@ -10,11 +10,11 @@ QMK firmware
 
 
 
-!\[Zuuppad Photo 1](https://raw.githubusercontent.com/Jagrit0711/zuuppad/main/photos/case type c .png)
+!\[Zuuppad Photo 1](https://raw.githubusercontent.com/Jagrit0711/zuuppad/main/photos/casetypec.png)
 
 
 
-!\[Zuuppad Photo 2](https://raw.githubusercontent.com/Jagrit0711/zuuppad/main/photos/top view .png)
+!\[Zuuppad Photo 2](https://raw.githubusercontent.com/Jagrit0711/zuuppad/main/photos/topview.png)
 
 
 
@@ -23,7 +23,7 @@ QMK firmware
 # CAD Model:
 
 in my case the switches and controller are fully visible because it looks cool like tht lol
-for usb c there with a pill shaped cutout. i didn't made top panel i have made the bezzle and i am going to manually cut and place a acrylic sheet so that internal components are always visible hence i didn't made a top panel and my pcb is elevated so it doesnt require a plate 
+for usb c there with a pill shaped cutout. i didn't made top panel i have made the bezzle and i am going to manually cut and place a acrylic sheet so that internal components are always visible hence i didn't made a top panel and my pcb is elevated so it doesnt require a plate
 #PCB
 i made it on KiCad 10. i used 9 MX\_PCB\_1.00u switch footprints in a clean 3x3 grid. Diodes are DO-35 1N4148, one per key i also aded random usless cool stuff on the pcb too
 
