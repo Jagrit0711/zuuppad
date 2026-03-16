@@ -5,7 +5,7 @@ Zuup is a cicropad is a 9 key macropad built around the Arduino Pro Micro.
 ## Features
 - 9 MX-style mechanical switches in a 3x3 grid  
 - xiao-rp2040-dip as the brains  
-- circuite python firmware
+- circuitpython
 
 ## Photos
 
@@ -26,7 +26,7 @@ i made it on KiCad 10. i used 9 MX_PCB_1.00u switch footprints in a clean 3x3 gr
 
 ## Firmware Overview
 
-Uses circuite python firmware.  
+Uses circuitpython firmware.  
 9 keys act as fully remappable macros
 
 ## BOM
