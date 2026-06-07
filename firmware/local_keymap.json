@@ -1,0 +1,38 @@
+{
+    "0": {
+        "type": "Media",
+        "value": "previous"
+    },
+    "1": {
+        "type": "Media",
+        "value": "play-pause"
+    },
+    "2": {
+        "type": "Media",
+        "value": "next"
+    },
+    "3": {
+        "type": "App",
+        "value": "google-chrome-stable"
+    },
+    "4": {
+        "type": "App",
+        "value": "gnome-calculator"
+    },
+    "5": {
+        "type": "App",
+        "value": "spotify"
+    },
+    "6": {
+        "type": "Shortcut",
+        "value": "alt+enter"
+    },
+    "7": {
+        "type": "Shortcut",
+        "value": "delete"
+    },
+    "8": {
+        "type": "Shortcut",
+        "value": "enter"
+    }
+}
